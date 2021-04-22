@@ -1,0 +1,12 @@
+wh0802.c:9:6:write_operation	16	static
+wh0802.c:56:6:wh0802_clear_display	8	static
+wh0802.c:61:6:wh0802_return_home	8	static
+wh0802.c:67:6:wh0802_entry_mode_set	16	static
+wh0802.c:73:6:wh0802_display_control	16	static
+wh0802.c:78:6:wh0802_cursor_or_display_shift	16	static
+wh0802.c:85:6:wh0802_function_set	16	static
+wh0802.c:90:6:wh0802_set_cgram_address	16	static
+wh0802.c:95:6:wh0802_set_ddram_address	16	static
+wh0802.c:100:6:wh0802_write_data_to_ram	16	static
+wh0802.c:106:6:wh0802_init	8	static
+wh0802.c:139:6:wh0802_write_to_display	32	static

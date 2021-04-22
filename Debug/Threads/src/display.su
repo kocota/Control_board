@@ -1,0 +1,7 @@
+display.c:39:6:Display	32	static
+display.c:376:6:TimeMenu	16	static
+display.c:438:6:TimeTask	32	static
+display.c:802:6:DateTask	32	static
+display.c:1067:6:TimeDisplayTask	32	static
+display.c:1134:6:DateDisplayTask	32	static
+display.c:1201:6:DisplayTimer	16	static
